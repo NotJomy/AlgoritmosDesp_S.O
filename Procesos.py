@@ -84,4 +84,4 @@ def Prioridad(procesos): #Funcion que implementa el algoritmo de prioridad
 
     Fifo(prioridad_list) #Llamo a la funcion
 
-    #Pendo
+    #Nuevo coemntario
